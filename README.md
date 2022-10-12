@@ -1,6 +1,5 @@
 # OIDC lambda helper for Amazon Cognito
 
-This project is a demonestration of how to integrate OIDC Authentication floe with Amazon Cognito.
 
 The goal of this lambda is exchange a provided authorization code for the applation Id Token.
 
